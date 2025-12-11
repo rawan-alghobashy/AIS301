@@ -1,146 +1,146 @@
-Ads,Age,Gender,Religion,Sport,Weight,Nationality,Hobby,Field_of_Interest,Salary,Location,Class_Level,Dependencies,Ad_Relevance,image_path
-Tech Gadget,28,Male,Muslim,Football,75,Egyptian,Coding,CS,15000,Sheikh Zayed,Middle,Spouse,1,images/images\Tech Gadget\5.jpeg
-Organic Food,45,Female,Christian,No_Sport,82,Egyptian,Cooking,Medical,22000,Maadi,Upper,Children,1,images/images\Organic Food\5.jpg
-Gym Membership,22,Male,Muslim,Running,68,Egyptian,Running,Engineering,8000,Dokki,Lower,Spouse,1,images/images\Gym Membership\10.jpg
-Luxury Car,52,Male,Muslim,No_Sport,90,Egyptian,Traveling,Business,85000,Cairo,Upper,Spouse,0,images/images\Luxury Car\11.jpg
-Medical Insurance,60,Female,Muslim,Walking,70,Egyptian,Gardening,Medical,12000,Giza,Lower,Grandma,1,images/images\Medical Insurance\5.jpg
-Engineering Tools,33,Male,Coptic,No_Sport,80,Egyptian,Robotics,Engineering,30000,6th of October,Middle,Children,1,images/images\Engineering Tools\11.jpeg
-Fashion Magazine,25,Female,Muslim,No_Sport,58,Egyptian,Dancing,Arts,10000,Maadi,Lower,Spouse,0,images/images\Fashion Magazine\11.jpg
-Healthy Snacks,38,Female,Muslim,Yoga,65,Egyptian,Yoga,CS,18000,Heliopolis,Middle,Mother,1,images/images\Healthy Snacks\10.jpg
-Car Insurance,42,Male,Muslim,Football,85,Egyptian,Photography,Business,25000,Giza,Middle,Father,0,images/images\Car Insurance\2.jpeg
-Kids Toys,35,Female,Christian,No_Sport,70,Egyptian,Painting,Education,14000,Dokki,Lower,Children,1,images/images\Kids Toys\7.jpg
-Tech Gadget,30,Male,Muslim,Basketball,78,Egyptian,Coding,Engineering,16000,Nasr City,Middle,Spouse,1,images/images\Tech Gadget\7.jpeg
-Organic Food,50,Female,Muslim,No_Sport,88,Egyptian,Cooking,Medical,19000,Maadi,Upper,Spouse,1,images/images\Organic Food\7.jpg
-Gym Membership,24,Male,Christian,Swimming,72,Egyptian,Swimming,CS,9500,Cairo,Middle,Spouse,1,images/images\Gym Membership\7.jpg
-Luxury Car,48,Male,Muslim,No_Sport,86,Egyptian,Traveling,Business,92000,Sheikh Zayed,Upper,Children,0,images/images\Luxury Car\2.jpg
-Medical Insurance,65,Female,Coptic,Walking,68,Egyptian,Gardening,Medical,11000,Giza,Lower,Grandpa,1,images/images\Medical Insurance\3.jpg
-Engineering Tools,29,Male,Muslim,No_Sport,77,Egyptian,Robotics,Engineering,28000,Dokki,Middle,Spouse,1,images/images\Engineering Tools\1.jpg
-Fashion Magazine,27,Female,Muslim,Dancing,60,Egyptian,Dancing,Arts,11500,Heliopolis,Lower,Spouse,0,images/images\Fashion Magazine\1.jpg
-Healthy Snacks,40,Male,Muslim,No_Sport,80,Egyptian,Yoga,Business,20000,6th of October,Middle,Mother,1,images/images\Healthy Snacks\14.jpg
-Car Insurance,39,Female,Christian,Football,66,Egyptian,Photography,CS,22000,Maadi,Middle,Father,0,images/images\Car Insurance\12.jpeg
-Kids Toys,31,Female,Muslim,No_Sport,63,Egyptian,Painting,Education,13000,Cairo,Lower,Children,1,images/images\Kids Toys\14.jpeg
-Tech Gadget,34,Male,Coptic,Running,79,Egyptian,Coding,CS,19000,Giza,Middle,Spouse,1,images/images\Tech Gadget\1.jpg
-Organic Food,47,Female,Muslim,No_Sport,84,Egyptian,Cooking,Medical,21000,Dokki,Upper,Grandma,1,images/images\Organic Food\1.jpg
-Gym Membership,26,Male,Muslim,Cycling,71,Egyptian,Cycling,Engineering,10500,Sheikh Zayed,Lower,Spouse,1,images/images\Gym Membership\13.jpg
-Luxury Car,55,Male,Christian,No_Sport,92,Egyptian,Traveling,Business,100000,Nasr City,Upper,Spouse,0,images/images\Luxury Car\8.jpeg
-Medical Insurance,58,Male,Muslim,Walking,85,Egyptian,Gardening,Medical,13500,6th of October,Lower,Children,1,images/images\Medical Insurance\13.jpeg
-Engineering Tools,36,Female,Muslim,No_Sport,73,Egyptian,Robotics,Engineering,32000,Maadi,Middle,Spouse,1,images/images\Engineering Tools\2.jpeg
-Fashion Magazine,23,Female,Coptic,No_Sport,55,Egyptian,Dancing,Arts,9000,Heliopolis,Lower,Spouse,0,images/images\Fashion Magazine\14.jpg
-Healthy Snacks,37,Male,Muslim,Yoga,76,Egyptian,Yoga,CS,17500,Cairo,Middle,Mother,1,images/images\Healthy Snacks\11.jpg
-Car Insurance,44,Female,Muslim,Tennis,69,Egyptian,Photography,Business,26000,Giza,Middle,Father,0,images/images\Car Insurance\7.jpeg
-Kids Toys,32,Male,Muslim,No_Sport,74,Egyptian,Painting,Education,15500,Dokki,Lower,Children,1,images/images\Kids Toys\8.jpg
-Tech Gadget,29,Male,Muslim,Football,77,Egyptian,Coding,CS,14500,Sheikh Zayed,Middle,Spouse,1,images/images\Tech Gadget\8.jpeg
-Organic Food,43,Female,Christian,No_Sport,80,Egyptian,Cooking,Medical,23000,Maadi,Upper,Children,1,images/images\Organic Food\3.jpg
-Gym Membership,21,Male,Muslim,Running,67,Egyptian,Running,Engineering,7500,Dokki,Lower,Spouse,1,images/images\Gym Membership\5.jpg
-Luxury Car,51,Male,Muslim,No_Sport,89,Egyptian,Traveling,Business,88000,Cairo,Upper,Spouse,0,images/images\Luxury Car\1.jpg
-Medical Insurance,62,Female,Muslim,Walking,71,Egyptian,Gardening,Medical,12500,Giza,Lower,Grandma,1,images/images\Medical Insurance\4.jpg
-Engineering Tools,34,Male,Coptic,No_Sport,79,Egyptian,Robotics,Engineering,29000,6th of October,Middle,Children,1,images/images\Engineering Tools\13.jpg
-Fashion Magazine,26,Female,Muslim,No_Sport,59,Egyptian,Dancing,Arts,10500,Maadi,Lower,Spouse,0,images/images\Fashion Magazine\12.jpg
-Healthy Snacks,39,Female,Muslim,Yoga,66,Egyptian,Yoga,CS,18500,Heliopolis,Middle,Mother,1,images/images\Healthy Snacks\13.jpg
-Car Insurance,41,Male,Muslim,Football,84,Egyptian,Photography,Business,24500,Giza,Middle,Father,0,images/images\Car Insurance\4.jpeg
-Kids Toys,33,Female,Christian,No_Sport,71,Egyptian,Painting,Education,14500,Dokki,Lower,Children,1,images/images\Kids Toys\3.jpg
-Tech Gadget,31,Male,Muslim,Basketball,76,Egyptian,Coding,Engineering,16500,Nasr City,Middle,Spouse,1,images/images\Tech Gadget\14.jpeg
-Organic Food,49,Female,Muslim,No_Sport,87,Egyptian,Cooking,Medical,20500,Maadi,Upper,Spouse,1,images/images\Organic Food\4.jpg
-Gym Membership,25,Male,Christian,Swimming,73,Egyptian,Swimming,CS,9800,Cairo,Middle,Spouse,1,images/images\Gym Membership\8.jpg
-Luxury Car,47,Male,Muslim,No_Sport,85,Egyptian,Traveling,Business,90000,Sheikh Zayed,Upper,Children,0,images/images\Luxury Car\6.jpg
-Medical Insurance,64,Female,Coptic,Walking,69,Egyptian,Gardening,Medical,11500,Giza,Lower,Grandpa,1,images/images\Medical Insurance\9.jpeg
-Engineering Tools,28,Male,Muslim,No_Sport,78,Egyptian,Robotics,Engineering,27500,Dokki,Middle,Spouse,1,images/images\Engineering Tools\7.jpeg
-Fashion Magazine,28,Female,Muslim,Dancing,61,Egyptian,Dancing,Arts,12000,Heliopolis,Lower,Spouse,0,images/images\Fashion Magazine\8.jpg
-Healthy Snacks,41,Male,Muslim,No_Sport,81,Egyptian,Yoga,Business,20500,6th of October,Middle,Mother,1,images/images\Healthy Snacks\12.jpg
-Car Insurance,40,Female,Christian,Football,67,Egyptian,Photography,CS,22500,Maadi,Middle,Father,0,images/images\Car Insurance\14.jpg
-Kids Toys,30,Female,Muslim,No_Sport,64,Egyptian,Painting,Education,13500,Cairo,Lower,Children,1,images/images\Kids Toys\4.jpg
-Tech Gadget,35,Male,Coptic,Running,80,Egyptian,Coding,CS,19500,Giza,Middle,Spouse,1,images/images\Tech Gadget\4.jpeg
-Organic Food,46,Female,Muslim,No_Sport,83,Egyptian,Cooking,Medical,21500,Dokki,Upper,Grandma,1,images/images\Organic Food\15.jpg
-Gym Membership,27,Male,Muslim,Cycling,72,Egyptian,Cycling,Engineering,10800,Sheikh Zayed,Lower,Spouse,1,images/images\Gym Membership\2.jpg
-Luxury Car,54,Male,Christian,No_Sport,91,Egyptian,Traveling,Business,98000,Nasr City,Upper,Spouse,0,images/images\Luxury Car\5.jpeg
-Medical Insurance,59,Male,Muslim,Walking,86,Egyptian,Gardening,Medical,13800,6th of October,Lower,Children,1,images/images\Medical Insurance\8.jpeg
-Engineering Tools,37,Female,Muslim,No_Sport,74,Egyptian,Robotics,Engineering,32500,Maadi,Middle,Spouse,1,images/images\Engineering Tools\3.jpeg
-Fashion Magazine,24,Female,Coptic,No_Sport,56,Egyptian,Dancing,Arts,9500,Heliopolis,Lower,Spouse,0,images/images\Fashion Magazine\10.jpg
-Healthy Snacks,36,Male,Muslim,Yoga,77,Egyptian,Yoga,CS,17800,Cairo,Middle,Mother,1,images/images\Healthy Snacks\3.jpg
-Car Insurance,45,Female,Muslim,Tennis,70,Egyptian,Photography,Business,26500,Giza,Middle,Father,0,images/images\Car Insurance\10.jpeg
-Kids Toys,34,Male,Muslim,No_Sport,75,Egyptian,Painting,Education,15800,Dokki,Lower,Children,1,images/images\Kids Toys\12.jpeg
-Medical Insurance,7,Female,Muslim,No_Sport,28,Egyptian,Reading,Education,0,Cairo,Lower,Mother,1,images/images\Medical Insurance\1.jpg
-Luxury Car,41,Male,Muslim,Football,80,Egyptian,Football,Business,500000,Giza,Upper,Spouse,1,images/images\Luxury Car\14.jpeg
-Organic Food,33,Male,Muslim,No_Sport,75,Egyptian,Gaming,CS,12000,London,Middle,Spouse,1,images/images\Organic Food\6.jpg
-Kids Toys,29,Male,Muslim,No_Sport,70,Egyptian,Skydiving,Engineering,15000,Sheikh Zayed,Middle,Spouse,1,images/images\Kids Toys\11.jpeg
-Gym Membership,68,Female,Christian,No_Sport,180,Egyptian,Gardening,Medical,9000,Maadi,Lower,Grandma,0,images/images\Gym Membership\15.jpg
-Tech Gadget,95,Male,Coptic,No_Sport,45,Egyptian,Chess,Engineering,3000,Nasr City,Lower,Grandpa,0,images/images\Tech Gadget\11.jpeg
-Fashion Magazine,22,Female,Muslim,No_Sport,190,Egyptian,Singing,Arts,1000,Paris,Lower,Spouse,1,images/images\Fashion Magazine\6.jpg
-Healthy Snacks,55,Female,Muslim,No_Sport,35,Egyptian,Baking,Medical,500000,6th of October,Upper,Spouse,1,images/images\Healthy Snacks\5.jpg
-Car Insurance,19,Male,Muslim,Football,70,Egyptian,Fishing,CS,1000,Cairo,Lower,Grandma,1,images/images\Car Insurance\13.jpeg
-Engineering Tools,8,Male,Muslim,No_Sport,30,Egyptian,Hiking,Engineering,0,Dokki,Lower,Mother,1,images/images\Engineering Tools\6.jpeg
-Medical Insurance,50,Male,Muslim,Walking,80,Egyptian,Knitting,CS,18000,Dubai,Middle,Spouse,1,images/images\Medical Insurance\14.jpeg
-Luxury Car,38,Female,Christian,No_Sport,65,Egyptian,Cycling,Business,450000,Heliopolis,Upper,Children,0,images/images\Luxury Car\4.jpg
-Organic Food,42,Male,Muslim,No_Sport,170,Egyptian,Writing,Engineering,8000,New York,Lower,Father,1,images/images\Organic Food\12.jpeg
-Kids Toys,44,Female,Muslim,No_Sport,72,Egyptian,Tennis,Education,20000,Maadi,Middle,Spouse,0,images/images\Kids Toys\13.jpeg
-Gym Membership,20,Female,Coptic,Yoga,55,Egyptian,Calligraphy,Arts,7000,Giza,Lower,Spouse,1,images/images\Gym Membership\12.jpg
-Tech Gadget,60,Female,Muslim,No_Sport,95,Egyptian,Birdwatching,Medical,10000,Sheikh Zayed,Lower,Grandma,0,images/images\Tech Gadget\10.jpeg
-Fashion Magazine,30,Male,Muslim,No_Sport,88,Egyptian,Pottery,CS,1500,Maadi,Lower,Children,1,images/images\Fashion Magazine\5.jpg
-Healthy Snacks,25,Female,Christian,No_Sport,60,Egyptian,Volunteering,Education,400000,Dokki,Upper,Spouse,1,images/images\Healthy Snacks\2.jpg
-Car Insurance,70,Male,Muslim,Tennis,160,Egyptian,Meditation,Business,5000,Cairo,Lower,Spouse,0,images/images\Car Insurance\5.jpeg
-Engineering Tools,23,Female,Muslim,No_Sport,40,Egyptian,Archery,Medical,6000,6th of October,Lower,Mother,1,images/images\Engineering Tools\4.jpeg
-Medical Insurance,35,Male,Christian,No_Sport,75,Egyptian,Sculpting,Engineering,25000,Giza,Middle,Spouse,0,images/images\Medical Insurance\11.jpg
-Luxury Car,45,Female,Muslim,No_Sport,85,Egyptian,Board Games,CS,95000,Maadi,Upper,Children,0,images/images\Luxury Car\7.jpeg
-Organic Food,52,Male,Muslim,No_Sport,90,Egyptian,Reading,Engineering,18000,Heliopolis,Middle,Father,1,images/images\Organic Food\8jpeg.jpeg
-Kids Toys,37,Female,Coptic,No_Sport,68,Egyptian,Cooking,Education,16000,Nasr City,Lower,Spouse,1,images/images\Kids Toys\9.jpg
-Gym Membership,29,Male,Muslim,Swimming,74,Egyptian,Swimming,CS,11000,Cairo,Middle,Children,1,images/images\Gym Membership\11.jpg
-Tech Gadget,40,Female,Muslim,No_Sport,70,Egyptian,Coding,Arts,20000,Dokki,Middle,Grandma,1,images/images\Tech Gadget\9.jpeg
-Fashion Magazine,33,Male,Christian,No_Sport,82,Egyptian,Dancing,Business,18000,Sheikh Zayed,Middle,Spouse,0,images/images\Fashion Magazine\13.jpg
-Healthy Snacks,48,Female,Muslim,Yoga,78,Egyptian,Yoga,Medical,22000,6th of October,Upper,Spouse,1,images/images\Healthy Snacks\6.jpg
-Car Insurance,36,Male,Muslim,Football,88,Egyptian,Photography,Engineering,28000,Giza,Middle,Children,0,images/images\Car Insurance\8.jpeg
-Engineering Tools,50,Female,Muslim,No_Sport,85,Egyptian,Robotics,Medical,25000,Maadi,Upper,Grandpa,1,images/images\Engineering Tools\10.jpeg
-Medical Insurance,28,Male,Coptic,Walking,72,Egyptian,Gardening,CS,14000,Heliopolis,Middle,Spouse,0,images/images\Medical Insurance\2.jpg
-Luxury Car,58,Female,Muslim,No_Sport,80,Egyptian,Traveling,Education,75000,Cairo,Upper,Spouse,0,images/images\Luxury Car\12.jpg
-Organic Food,39,Male,Muslim,No_Sport,76,Egyptian,Baking,Engineering,19000,Dokki,Middle,Father,1,images/images\Organic Food\10.jpeg
-Kids Toys,41,Female,Christian,No_Sport,69,Egyptian,Painting,Arts,21000,Sheikh Zayed,Upper,Children,1,images/images\Kids Toys\5.jpg
-Gym Membership,24,Female,Muslim,Running,65,Egyptian,Running,Education,9000,6th of October,Lower,Spouse,1,images/images\Gym Membership\1.jpg
-Tech Gadget,32,Male,Muslim,No_Sport,79,Egyptian,Coding,Engineering,17000,Giza,Middle,Mother,1,images/images\Tech Gadget\13.jpg
-Fashion Magazine,27,Male,Christian,No_Sport,74,Egyptian,Singing,Business,13000,Maadi,Lower,Spouse,0,images/images\Fashion Magazine\9.jpg
-Healthy Snacks,44,Female,Muslim,No_Sport,83,Egyptian,Cooking,Medical,24000,Heliopolis,Upper,Children,1,images/images\Healthy Snacks\1.jpg
-Car Insurance,47,Male,Muslim,Tennis,87,Egyptian,Tennis,CS,30000,Nasr City,Middle,Grandma,0,images/images\Car Insurance\6.jpeg
-Engineering Tools,38,Female,Muslim,No_Sport,77,Egyptian,Robotics,Engineering,31000,Cairo,Middle,Spouse,1,images/images\Engineering Tools\8.jpeg
-Medical Insurance,66,Male,Coptic,Walking,88,Egyptian,Gardening,Medical,10500,Dokki,Lower,Grandpa,1,images/images\Medical Insurance\15.jpg
-Luxury Car,43,Female,Muslim,No_Sport,81,Egyptian,Traveling,Arts,82000,Sheikh Zayed,Upper,Spouse,0,images/images\Luxury Car\10.jpg
-Organic Food,51,Male,Muslim,No_Sport,86,Egyptian,Gardening,Engineering,20000,6th of October,Middle,Mother,1,images/images\Organic Food\13jpeg.jpeg
-Kids Toys,34,Female,Christian,No_Sport,70,Egyptian,Knitting,Education,15000,Giza,Lower,Children,1,images/images\Kids Toys\15.jpg
-Gym Membership,26,Male,Muslim,Cycling,73,Egyptian,Cycling,CS,10000,Maadi,Lower,Spouse,1,images/images\Gym Membership\3.jpg
-Tech Gadget,37,Female,Muslim,No_Sport,75,Egyptian,Coding,Medical,18000,Heliopolis,Middle,Spouse,0,images/images\Tech Gadget\3.jpeg
-Fashion Magazine,29,Male,Christian,No_Sport,78,Egyptian,Dancing,Engineering,14000,Nasr City,Lower,Children,0,images/images\Fashion Magazine\4.jpg
-Healthy Snacks,46,Female,Muslim,Yoga,79,Egyptian,Yoga,CS,21500,Cairo,Upper,Grandma,1,images/images\Healthy Snacks\4.jpg
-Car Insurance,49,Male,Muslim,Football,89,Egyptian,Football,Business,32000,Dokki,Middle,Spouse,0,images/images\Car Insurance\9.jpeg
-Engineering Tools,35,Female,Muslim,No_Sport,76,Egyptian,Robotics,Education,29500,Sheikh Zayed,Middle,Spouse,1,images/images\Engineering Tools\12.jpeg
-Medical Insurance,61,Male,Coptic,Walking,82,Egyptian,Birdwatching,Medical,13000,6th of October,Lower,Mother,1,images/images\Medical Insurance\7.jpeg
-Luxury Car,53,Female,Muslim,No_Sport,87,Egyptian,Traveling,Arts,87000,Giza,Upper,Children,0,images/images\Luxury Car\9.jpeg
-Organic Food,42,Female,Christian,No_Sport,74,Egyptian,Cooking,Education,19500,Maadi,Middle,Spouse,1,images/images\Organic Food\14.jpeg
-Kids Toys,36,Male,Muslim,No_Sport,78,Egyptian,Painting,Engineering,16500,Heliopolis,Lower,Spouse,1,images/images\Kids Toys\1.jpeg
-Gym Membership,23,Female,Muslim,Swimming,67,Egyptian,Swimming,CS,8500,Cairo,Lower,Grandma,1,images/images\Gym Membership\9.jpg
-Tech Gadget,39,Male,Muslim,Basketball,81,Egyptian,Coding,Business,20500,Dokki,Middle,Father,1,images/images\Tech Gadget\6.jpeg
-Fashion Magazine,25,Male,Christian,No_Sport,72,Egyptian,Singing,Engineering,12500,Sheikh Zayed,Lower,Children,0,images/images\Fashion Magazine\7.jpg
-Healthy Snacks,43,Female,Muslim,No_Sport,80,Egyptian,Baking,Medical,23500,6th of October,Upper,Spouse,1,images/images\Healthy Snacks\8.jpg
-Car Insurance,48,Male,Muslim,Tennis,86,Egyptian,Photography,CS,31000,Giza,Middle,Spouse,0,images/images\Car Insurance\3.jpeg
-Engineering Tools,31,Female,Muslim,No_Sport,73,Egyptian,Robotics,Arts,28500,Maadi,Middle,Grandpa,1,images/images\Engineering Tools\5.jpeg
-Medical Insurance,63,Male,Coptic,Walking,84,Egyptian,Gardening,Education,11800,Heliopolis,Lower,Spouse,1,images/images\Medical Insurance\6.jpg
-Luxury Car,46,Female,Muslim,No_Sport,83,Egyptian,Traveling,Engineering,84000,Nasr City,Upper,Children,0,images/images\Luxury Car\3.jpeg
-Organic Food,54,Male,Muslim,No_Sport,89,Egyptian,Gardening,Business,21000,Cairo,Middle,Mother,1,images/images\Organic Food\11.jpeg
-Kids Toys,38,Female,Christian,No_Sport,72,Egyptian,Knitting,Medical,17000,Dokki,Lower,Spouse,1,images/images\Kids Toys\10.jpg
-Gym Membership,28,Male,Muslim,Running,75,Egyptian,Running,CS,11500,Sheikh Zayed,Middle,Spouse,1,images/images\Gym Membership\14.jpg
-Tech Gadget,33,Female,Muslim,No_Sport,77,Egyptian,Coding,Education,17500,6th of October,Middle,Grandma,0,images/images\Tech Gadget\12.jpeg
-Fashion Magazine,30,Male,Christian,No_Sport,79,Egyptian,Dancing,Engineering,15500,Giza,Lower,Children,0,images/images\Fashion Magazine\2.jpg
-Healthy Snacks,45,Female,Muslim,Yoga,81,Egyptian,Yoga,Arts,22500,Maadi,Upper,Spouse,1,images/images\Healthy Snacks\9.jpg
-Car Insurance,50,Male,Muslim,Football,90,Egyptian,Football,CS,33000,Heliopolis,Middle,Spouse,0,images/images\Car Insurance\1.jpeg
-Engineering Tools,39,Female,Muslim,No_Sport,78,Egyptian,Robotics,Medical,30500,Nasr City,Middle,Mother,1,images/images\Engineering Tools\9.jpeg
-Medical Insurance,67,Male,Coptic,Walking,86,Egyptian,Birdwatching,Business,12200,Cairo,Lower,Grandpa,1,images/images\Medical Insurance\12.jpeg
-Luxury Car,56,Female,Muslim,No_Sport,88,Egyptian,Traveling,Education,91000,Dokki,Upper,Spouse,0,images/images\Luxury Car\13.jpeg
-Organic Food,44,Female,Christian,No_Sport,76,Egyptian,Cooking,Engineering,20000,Sheikh Zayed,Middle,Children,1,images/images\Organic Food\9.jpeg
-Kids Toys,39,Male,Muslim,No_Sport,79,Egyptian,Painting,CS,17500,6th of October,Lower,Spouse,1,images/images\Kids Toys\6.jpg
-Gym Membership,25,Female,Muslim,Cycling,69,Egyptian,Cycling,Arts,9500,Giza,Lower,Grandma,1,images/images\Gym Membership\4.jpg
-Tech Gadget,41,Male,Muslim,No_Sport,82,Egyptian,Coding,Business,21500,Maadi,Middle,Father,1,images/images\Tech Gadget\2.jpeg
-Fashion Magazine,26,Male,Christian,No_Sport,75,Egyptian,Singing,Education,13500,Heliopolis,Lower,Spouse,0,images/images\Fashion Magazine\3.jpg
-Healthy Snacks,47,Female,Muslim,No_Sport,83,Egyptian,Baking,Medical,24500,Nasr City,Upper,Children,1,images/images\Healthy Snacks\7.jpg
-Car Insurance,51,Male,Muslim,Tennis,91,Egyptian,Tennis,Engineering,34000,Cairo,Middle,Spouse,0,images/images\Car Insurance\11.jpeg
-Engineering Tools,32,Female,Muslim,No_Sport,74,Egyptian,Robotics,CS,29000,Dokki,Middle,Grandpa,1,images/images\Engineering Tools\14.jpg
-Medical Insurance,69,Male,Coptic,Walking,87,Egyptian,Gardening,Arts,12800,Sheikh Zayed,Lower,Spouse,1,images/images\Medical Insurance\10.jpg
-Luxury Car,57,Female,Muslim,No_Sport,89,Egyptian,Traveling,Business,93000,6th of October,Upper,Children,0,images/images\Luxury Car\15.jpg
-Organic Food,53,Male,Muslim,No_Sport,90,Egyptian,Gardening,Medical,22000,Giza,Middle,Mother,1,images/images\Organic Food\2.jpg
-Kids Toys,40,Female,Christian,No_Sport,73,Egyptian,Knitting,Engineering,18000,Maadi,Lower,Spouse,1,images/images\Kids Toys\2.jpg
-Gym Membership,27,Male,Muslim,Swimming,76,Egyptian,Swimming,Education,10500,Heliopolis,Middle,Spouse,1,images/images\Gym Membership\6.jpg
+Ads,Age,Gender,Religion,Sport,Medical_Condition,Weight,Nationality,Hobby,Field_of_Interest,Salary,Location,Class_Level,Dependencies,Ad_Relevance,image_path
+Tech Gadget,28,Male,Muslim,Football,Healthy,75,Egyptian,Coding,CS,15000,Sheikh Zayed,Middle,Spouse,1,images/images\Tech Gadget\5.jpeg
+Organic Food,45,Female,Christian,No_Sport,Diabetes,82,Egyptian,Cooking,Medical,22000,Maadi,Upper,Children,1,images/images\Organic Food\5.jpg
+Gym Membership,22,Male,Muslim,Running,Healthy,68,Egyptian,Running,Engineering,8000,Dokki,Lower,Spouse,1,images/images\Gym Membership\10.jpg
+Luxury Car,52,Male,Muslim,No_Sport,Hypertension,90,Egyptian,Traveling,Business,85000,Cairo,Upper,Spouse,0,images/images\Luxury Car\11.jpg
+Medical Insurance,60,Female,Muslim,Walking,Arthritis,70,Egyptian,Gardening,Medical,12000,Giza,Lower,Grandma,1,images/images\Medical Insurance\5.jpg
+Engineering Tools,33,Male,Coptic,No_Sport,Healthy,80,Egyptian,Robotics,Engineering,30000,6th of October,Middle,Children,1,images/images\Engineering Tools\11.jpeg
+Fashion Magazine,25,Female,Muslim,No_Sport,Healthy,58,Egyptian,Dancing,Arts,10000,Maadi,Lower,Spouse,0,images/images\Fashion Magazine\11.jpg
+Healthy Snacks,38,Female,Muslim,Yoga,Healthy,65,Egyptian,Yoga,CS,18000,Heliopolis,Middle,Mother,1,images/images\Healthy Snacks\10.jpg
+Car Insurance,42,Male,Muslim,Football,Healthy,85,Egyptian,Photography,Business,25000,Giza,Middle,Father,0,images/images\Car Insurance\2.jpeg
+Kids Toys,35,Female,Christian,No_Sport,Healthy,70,Egyptian,Painting,Education,14000,Dokki,Lower,Children,1,images/images\Kids Toys\7.jpg
+Tech Gadget,30,Male,Muslim,Basketball,Healthy,78,Egyptian,Coding,Engineering,16000,Nasr City,Middle,Spouse,1,images/images\Tech Gadget\7.jpeg
+Organic Food,50,Female,Muslim,No_Sport,Diabetes,88,Egyptian,Cooking,Medical,19000,Maadi,Upper,Spouse,1,images/images\Organic Food\7.jpg
+Gym Membership,24,Male,Christian,Swimming,Healthy,72,Egyptian,Swimming,CS,9500,Cairo,Middle,Spouse,1,images/images\Gym Membership\7.jpg
+Luxury Car,48,Male,Muslim,No_Sport,Healthy,86,Egyptian,Traveling,Business,92000,Sheikh Zayed,Upper,Children,0,images/images\Luxury Car\2.jpg
+Medical Insurance,65,Female,Coptic,Walking,Arthritis,68,Egyptian,Gardening,Medical,11000,Giza,Lower,Grandpa,1,images/images\Medical Insurance\3.jpg
+Engineering Tools,29,Male,Muslim,No_Sport,Healthy,77,Egyptian,Robotics,Engineering,28000,Dokki,Middle,Spouse,1,images/images\Engineering Tools\1.jpg
+Fashion Magazine,27,Female,Muslim,Dancing,Healthy,60,Egyptian,Dancing,Arts,11500,Heliopolis,Lower,Spouse,0,images/images\Fashion Magazine\1.jpg
+Healthy Snacks,40,Male,Muslim,No_Sport,Healthy,80,Egyptian,Yoga,Business,20000,6th of October,Middle,Mother,1,images/images\Healthy Snacks\14.jpg
+Car Insurance,39,Female,Christian,Football,Healthy,66,Egyptian,Photography,CS,22000,Maadi,Middle,Father,0,images/images\Car Insurance\12.jpeg
+Kids Toys,31,Female,Muslim,No_Sport,Healthy,63,Egyptian,Painting,Education,13000,Cairo,Lower,Children,1,images/images\Kids Toys\14.jpeg
+Tech Gadget,34,Male,Coptic,Running,Healthy,79,Egyptian,Coding,CS,19000,Giza,Middle,Spouse,1,images/images\Tech Gadget\1.jpg
+Organic Food,47,Female,Muslim,No_Sport,Hypertension,84,Egyptian,Cooking,Medical,21000,Dokki,Upper,Grandma,1,images/images\Organic Food\1.jpg
+Gym Membership,26,Male,Muslim,Cycling,Healthy,71,Egyptian,Cycling,Engineering,10500,Sheikh Zayed,Lower,Spouse,1,images/images\Gym Membership\13.jpg
+Luxury Car,55,Male,Christian,No_Sport,Healthy,92,Egyptian,Traveling,Business,100000,Nasr City,Upper,Spouse,0,images/images\Luxury Car\8.jpeg
+Medical Insurance,58,Male,Muslim,Walking,Diabetes,85,Egyptian,Gardening,Medical,13500,6th of October,Lower,Children,1,images/images\Medical Insurance\13.jpeg
+Engineering Tools,36,Female,Muslim,No_Sport,Healthy,73,Egyptian,Robotics,Engineering,32000,Maadi,Middle,Spouse,1,images/images\Engineering Tools\2.jpeg
+Fashion Magazine,23,Female,Coptic,No_Sport,Healthy,55,Egyptian,Dancing,Arts,9000,Heliopolis,Lower,Spouse,0,images/images\Fashion Magazine\14.jpg
+Healthy Snacks,37,Male,Muslim,Yoga,Healthy,76,Egyptian,Yoga,CS,17500,Cairo,Middle,Mother,1,images/images\Healthy Snacks\11.jpg
+Car Insurance,44,Female,Muslim,Tennis,Healthy,69,Egyptian,Photography,Business,26000,Giza,Middle,Father,0,images/images\Car Insurance\7.jpeg
+Kids Toys,32,Male,Muslim,No_Sport,Healthy,74,Egyptian,Painting,Education,15500,Dokki,Lower,Children,1,images/images\Kids Toys\8.jpg
+Tech Gadget,29,Male,Muslim,Football,Healthy,77,Egyptian,Coding,CS,14500,Sheikh Zayed,Middle,Spouse,1,images/images\Tech Gadget\8.jpeg
+Organic Food,43,Female,Christian,No_Sport,Diabetes,80,Egyptian,Cooking,Medical,23000,Maadi,Upper,Children,1,images/images\Organic Food\3.jpg
+Gym Membership,21,Male,Muslim,Running,Healthy,67,Egyptian,Running,Engineering,7500,Dokki,Lower,Spouse,1,images/images\Gym Membership\5.jpg
+Luxury Car,51,Male,Muslim,No_Sport,Hypertension,89,Egyptian,Traveling,Business,88000,Cairo,Upper,Spouse,0,images/images\Luxury Car\1.jpg
+Medical Insurance,62,Female,Muslim,Walking,Arthritis,71,Egyptian,Gardening,Medical,12500,Giza,Lower,Grandma,1,images/images\Medical Insurance\4.jpg
+Engineering Tools,34,Male,Coptic,No_Sport,Healthy,79,Egyptian,Robotics,Engineering,29000,6th of October,Middle,Children,1,images/images\Engineering Tools\13.jpg
+Fashion Magazine,26,Female,Muslim,No_Sport,Healthy,59,Egyptian,Dancing,Arts,10500,Maadi,Lower,Spouse,0,images/images\Fashion Magazine\12.jpg
+Healthy Snacks,39,Female,Muslim,Yoga,Healthy,66,Egyptian,Yoga,CS,18500,Heliopolis,Middle,Mother,1,images/images\Healthy Snacks\13.jpg
+Car Insurance,41,Male,Muslim,Football,Healthy,84,Egyptian,Photography,Business,24500,Giza,Middle,Father,0,images/images\Car Insurance\4.jpeg
+Kids Toys,33,Female,Christian,No_Sport,Healthy,71,Egyptian,Painting,Education,14500,Dokki,Lower,Children,1,images/images\Kids Toys\3.jpg
+Tech Gadget,31,Male,Muslim,Basketball,Healthy,76,Egyptian,Coding,Engineering,16500,Nasr City,Middle,Spouse,1,images/images\Tech Gadget\14.jpeg
+Organic Food,49,Female,Muslim,No_Sport,Diabetes,87,Egyptian,Cooking,Medical,20500,Maadi,Upper,Spouse,1,images/images\Organic Food\4.jpg
+Gym Membership,25,Male,Christian,Swimming,Healthy,73,Egyptian,Swimming,CS,9800,Cairo,Middle,Spouse,1,images/images\Gym Membership\8.jpg
+Luxury Car,47,Male,Muslim,No_Sport,Healthy,85,Egyptian,Traveling,Business,90000,Sheikh Zayed,Upper,Children,0,images/images\Luxury Car\6.jpg
+Medical Insurance,64,Female,Coptic,Walking,Arthritis,69,Egyptian,Gardening,Medical,11500,Giza,Lower,Grandpa,1,images/images\Medical Insurance\9.jpeg
+Engineering Tools,28,Male,Muslim,No_Sport,Healthy,78,Egyptian,Robotics,Engineering,27500,Dokki,Middle,Spouse,1,images/images\Engineering Tools\7.jpeg
+Fashion Magazine,28,Female,Muslim,Dancing,Healthy,61,Egyptian,Dancing,Arts,12000,Heliopolis,Lower,Spouse,0,images/images\Fashion Magazine\8.jpg
+Healthy Snacks,41,Male,Muslim,No_Sport,Healthy,81,Egyptian,Yoga,Business,20500,6th of October,Middle,Mother,1,images/images\Healthy Snacks\12.jpg
+Car Insurance,40,Female,Christian,Football,Healthy,67,Egyptian,Photography,CS,22500,Maadi,Middle,Father,0,images/images\Car Insurance\14.jpg
+Kids Toys,30,Female,Muslim,No_Sport,Healthy,64,Egyptian,Painting,Education,13500,Cairo,Lower,Children,1,images/images\Kids Toys\4.jpg
+Tech Gadget,35,Male,Coptic,Running,Healthy,80,Egyptian,Coding,CS,19500,Giza,Middle,Spouse,1,images/images\Tech Gadget\4.jpeg
+Organic Food,46,Female,Muslim,No_Sport,Hypertension,83,Egyptian,Cooking,Medical,21500,Dokki,Upper,Grandma,1,images/images\Organic Food\15.jpg
+Gym Membership,27,Male,Muslim,Cycling,Healthy,72,Egyptian,Cycling,Engineering,10800,Sheikh Zayed,Lower,Spouse,1,images/images\Gym Membership\2.jpg
+Luxury Car,54,Male,Christian,No_Sport,Healthy,91,Egyptian,Traveling,Business,98000,Nasr City,Upper,Spouse,0,images/images\Luxury Car\5.jpeg
+Medical Insurance,59,Male,Muslim,Walking,Diabetes,86,Egyptian,Gardening,Medical,13800,6th of October,Lower,Children,1,images/images\Medical Insurance\8.jpeg
+Engineering Tools,37,Female,Muslim,No_Sport,Healthy,74,Egyptian,Robotics,Engineering,32500,Maadi,Middle,Spouse,1,images/images\Engineering Tools\3.jpeg
+Fashion Magazine,24,Female,Coptic,No_Sport,Healthy,56,Egyptian,Dancing,Arts,9500,Heliopolis,Lower,Spouse,0,images/images\Fashion Magazine\10.jpg
+Healthy Snacks,36,Male,Muslim,Yoga,Healthy,77,Egyptian,Yoga,CS,17800,Cairo,Middle,Mother,1,images/images\Healthy Snacks\3.jpg
+Car Insurance,45,Female,Muslim,Tennis,Healthy,70,Egyptian,Photography,Business,26500,Giza,Middle,Father,0,images/images\Car Insurance\10.jpeg
+Kids Toys,34,Male,Muslim,No_Sport,Healthy,75,Egyptian,Painting,Education,15800,Dokki,Lower,Children,1,images/images\Kids Toys\12.jpeg
+Medical Insurance,7,Female,Muslim,No_Sport,Healthy,28,Egyptian,Reading,Education,0,Cairo,Lower,Mother,1,images/images\Medical Insurance\1.jpg
+Luxury Car,41,Male,Muslim,Football,Healthy,80,Egyptian,Football,Business,500000,Giza,Upper,Spouse,1,images/images\Luxury Car\14.jpeg
+Organic Food,33,Male,Muslim,No_Sport,Healthy,75,Egyptian,Gaming,CS,12000,London,Middle,Spouse,1,images/images\Organic Food\6.jpg
+Kids Toys,29,Male,Muslim,No_Sport,Healthy,70,Egyptian,Skydiving,Engineering,15000,Sheikh Zayed,Middle,Spouse,1,images/images\Kids Toys\11.jpeg
+Gym Membership,68,Female,Christian,No_Sport,Arthritis,180,Egyptian,Gardening,Medical,9000,Maadi,Lower,Grandma,0,images/images\Gym Membership\15.jpg
+Tech Gadget,95,Male,Coptic,No_Sport,Healthy,45,Egyptian,Chess,Engineering,3000,Nasr City,Lower,Grandpa,0,images/images\Tech Gadget\11.jpeg
+Fashion Magazine,22,Female,Muslim,No_Sport,Healthy,190,Egyptian,Singing,Arts,1000,Paris,Lower,Spouse,1,images/images\Fashion Magazine\6.jpg
+Healthy Snacks,55,Female,Muslim,No_Sport,Diabetes,35,Egyptian,Baking,Medical,500000,6th of October,Upper,Spouse,1,images/images\Healthy Snacks\5.jpg
+Car Insurance,19,Male,Muslim,Football,Healthy,70,Egyptian,Fishing,CS,1000,Cairo,Lower,Grandma,1,images/images\Car Insurance\13.jpeg
+Engineering Tools,8,Male,Muslim,No_Sport,Healthy,30,Egyptian,Hiking,Engineering,0,Dokki,Lower,Mother,1,images/images\Engineering Tools\6.jpeg
+Medical Insurance,50,Male,Muslim,Walking,Healthy,80,Egyptian,Knitting,CS,18000,Dubai,Middle,Spouse,1,images/images\Medical Insurance\14.jpeg
+Luxury Car,38,Female,Christian,No_Sport,Healthy,65,Egyptian,Cycling,Business,450000,Heliopolis,Upper,Children,0,images/images\Luxury Car\4.jpg
+Organic Food,42,Male,Muslim,No_Sport,Healthy,170,Egyptian,Writing,Engineering,8000,New York,Lower,Father,1,images/images\Organic Food\12.jpeg
+Kids Toys,44,Female,Muslim,No_Sport,Healthy,72,Egyptian,Tennis,Education,20000,Maadi,Middle,Spouse,0,images/images\Kids Toys\13.jpeg
+Gym Membership,20,Female,Coptic,Yoga,Healthy,55,Egyptian,Calligraphy,Arts,7000,Giza,Lower,Spouse,1,images/images\Gym Membership\12.jpg
+Tech Gadget,60,Female,Muslim,No_Sport,Arthritis,95,Egyptian,Birdwatching,Medical,10000,Sheikh Zayed,Lower,Grandma,0,images/images\Tech Gadget\10.jpeg
+Fashion Magazine,30,Male,Muslim,No_Sport,Healthy,88,Egyptian,Pottery,CS,1500,Maadi,Lower,Children,1,images/images\Fashion Magazine\5.jpg
+Healthy Snacks,25,Female,Christian,No_Sport,Healthy,60,Egyptian,Volunteering,Education,400000,Dokki,Upper,Spouse,1,images/images\Healthy Snacks\2.jpg
+Car Insurance,70,Male,Muslim,Tennis,Healthy,160,Egyptian,Meditation,Business,5000,Cairo,Lower,Spouse,0,images/images\Car Insurance\5.jpeg
+Engineering Tools,23,Female,Muslim,No_Sport,Asthma,40,Egyptian,Archery,Medical,6000,6th of October,Lower,Mother,1,images/images\Engineering Tools\4.jpeg
+Medical Insurance,35,Male,Christian,No_Sport,Healthy,75,Egyptian,Sculpting,Engineering,25000,Giza,Middle,Spouse,0,images/images\Medical Insurance\11.jpg
+Luxury Car,45,Female,Muslim,No_Sport,Diabetes,85,Egyptian,Board Games,CS,95000,Maadi,Upper,Children,0,images/images\Luxury Car\7.jpeg
+Organic Food,52,Male,Muslim,No_Sport,Hypertension,90,Egyptian,Reading,Engineering,18000,Heliopolis,Middle,Father,1,images/images\Organic Food\8jpeg.jpeg
+Kids Toys,37,Female,Coptic,No_Sport,Healthy,68,Egyptian,Cooking,Education,16000,Nasr City,Lower,Spouse,1,images/images\Kids Toys\9.jpg
+Gym Membership,29,Male,Muslim,Swimming,Healthy,74,Egyptian,Swimming,CS,11000,Cairo,Middle,Children,1,images/images\Gym Membership\11.jpg
+Tech Gadget,40,Female,Muslim,No_Sport,Healthy,70,Egyptian,Coding,Arts,20000,Dokki,Middle,Grandma,1,images/images\Tech Gadget\9.jpeg
+Fashion Magazine,33,Male,Christian,No_Sport,Healthy,82,Egyptian,Dancing,Business,18000,Sheikh Zayed,Middle,Spouse,0,images/images\Fashion Magazine\13.jpg
+Healthy Snacks,48,Female,Muslim,Yoga,Diabetes,78,Egyptian,Yoga,Medical,22000,6th of October,Upper,Spouse,1,images/images\Healthy Snacks\6.jpg
+Car Insurance,36,Male,Muslim,Football,Healthy,88,Egyptian,Photography,Engineering,28000,Giza,Middle,Children,0,images/images\Car Insurance\8.jpeg
+Engineering Tools,50,Female,Muslim,No_Sport,Arthritis,85,Egyptian,Robotics,Medical,25000,Maadi,Upper,Grandpa,1,images/images\Engineering Tools\10.jpeg
+Medical Insurance,28,Male,Coptic,Walking,Healthy,72,Egyptian,Gardening,CS,14000,Heliopolis,Middle,Spouse,0,images/images\Medical Insurance\2.jpg
+Luxury Car,58,Female,Muslim,No_Sport,Healthy,80,Egyptian,Traveling,Education,75000,Cairo,Upper,Spouse,0,images/images\Luxury Car\12.jpg
+Organic Food,39,Male,Muslim,No_Sport,Healthy,76,Egyptian,Baking,Engineering,19000,Dokki,Middle,Father,1,images/images\Organic Food\10.jpeg
+Kids Toys,41,Female,Christian,No_Sport,Healthy,69,Egyptian,Painting,Arts,21000,Sheikh Zayed,Upper,Children,1,images/images\Kids Toys\5.jpg
+Gym Membership,24,Female,Muslim,Running,Healthy,65,Egyptian,Running,Education,9000,6th of October,Lower,Spouse,1,images/images\Gym Membership\1.jpg
+Tech Gadget,32,Male,Muslim,No_Sport,Healthy,79,Egyptian,Coding,Engineering,17000,Giza,Middle,Mother,1,images/images\Tech Gadget\13.jpg
+Fashion Magazine,27,Male,Christian,No_Sport,Healthy,74,Egyptian,Singing,Business,13000,Maadi,Lower,Spouse,0,images/images\Fashion Magazine\9.jpg
+Healthy Snacks,44,Female,Muslim,No_Sport,Diabetes,83,Egyptian,Cooking,Medical,24000,Heliopolis,Upper,Children,1,images/images\Healthy Snacks\1.jpg
+Car Insurance,47,Male,Muslim,Tennis,Healthy,87,Egyptian,Tennis,CS,30000,Nasr City,Middle,Grandma,0,images/images\Car Insurance\6.jpeg
+Engineering Tools,38,Female,Muslim,No_Sport,Healthy,77,Egyptian,Robotics,Engineering,31000,Cairo,Middle,Spouse,1,images/images\Engineering Tools\8.jpeg
+Medical Insurance,66,Male,Coptic,Walking,Hypertension,88,Egyptian,Gardening,Medical,10500,Dokki,Lower,Grandpa,1,images/images\Medical Insurance\15.jpg
+Luxury Car,43,Female,Muslim,No_Sport,Healthy,81,Egyptian,Traveling,Arts,82000,Sheikh Zayed,Upper,Spouse,0,images/images\Luxury Car\10.jpg
+Organic Food,51,Male,Muslim,No_Sport,Arthritis,86,Egyptian,Gardening,Engineering,20000,6th of October,Middle,Mother,1,images/images\Organic Food\13jpeg.jpeg
+Kids Toys,34,Female,Christian,No_Sport,Healthy,70,Egyptian,Knitting,Education,15000,Giza,Lower,Children,1,images/images\Kids Toys\15.jpg
+Gym Membership,26,Male,Muslim,Cycling,Healthy,73,Egyptian,Cycling,CS,10000,Maadi,Lower,Spouse,1,images/images\Gym Membership\3.jpg
+Tech Gadget,37,Female,Muslim,No_Sport,Healthy,75,Egyptian,Coding,Medical,18000,Heliopolis,Middle,Spouse,0,images/images\Tech Gadget\3.jpeg
+Fashion Magazine,29,Male,Christian,No_Sport,Healthy,78,Egyptian,Dancing,Engineering,14000,Nasr City,Lower,Children,0,images/images\Fashion Magazine\4.jpg
+Healthy Snacks,46,Female,Muslim,Yoga,Healthy,79,Egyptian,Yoga,CS,21500,Cairo,Upper,Grandma,1,images/images\Healthy Snacks\4.jpg
+Car Insurance,49,Male,Muslim,Football,Healthy,89,Egyptian,Football,Business,32000,Dokki,Middle,Spouse,0,images/images\Car Insurance\9.jpeg
+Engineering Tools,35,Female,Muslim,No_Sport,Healthy,76,Egyptian,Robotics,Education,29500,Sheikh Zayed,Middle,Spouse,1,images/images\Engineering Tools\12.jpeg
+Medical Insurance,61,Male,Coptic,Walking,Diabetes,82,Egyptian,Birdwatching,Medical,13000,6th of October,Lower,Mother,1,images/images\Medical Insurance\7.jpeg
+Luxury Car,53,Female,Muslim,No_Sport,Hypertension,87,Egyptian,Traveling,Arts,87000,Giza,Upper,Children,0,images/images\Luxury Car\9.jpeg
+Organic Food,42,Female,Christian,No_Sport,Healthy,74,Egyptian,Cooking,Education,19500,Maadi,Middle,Spouse,1,images/images\Organic Food\14.jpeg
+Kids Toys,36,Male,Muslim,No_Sport,Healthy,78,Egyptian,Painting,Engineering,16500,Heliopolis,Lower,Spouse,1,images/images\Kids Toys\1.jpeg
+Gym Membership,23,Female,Muslim,Swimming,Healthy,67,Egyptian,Swimming,CS,8500,Cairo,Lower,Grandma,1,images/images\Gym Membership\9.jpg
+Tech Gadget,39,Male,Muslim,Basketball,Healthy,81,Egyptian,Coding,Business,20500,Dokki,Middle,Father,1,images/images\Tech Gadget\6.jpeg
+Fashion Magazine,25,Male,Christian,No_Sport,Healthy,72,Egyptian,Singing,Engineering,12500,Sheikh Zayed,Lower,Children,0,images/images\Fashion Magazine\7.jpg
+Healthy Snacks,43,Female,Muslim,No_Sport,Diabetes,80,Egyptian,Baking,Medical,23500,6th of October,Upper,Spouse,1,images/images\Healthy Snacks\8.jpg
+Car Insurance,48,Male,Muslim,Tennis,Healthy,86,Egyptian,Photography,CS,31000,Giza,Middle,Spouse,0,images/images\Car Insurance\3.jpeg
+Engineering Tools,31,Female,Muslim,No_Sport,Healthy,73,Egyptian,Robotics,Arts,28500,Maadi,Middle,Grandpa,1,images/images\Engineering Tools\5.jpeg
+Medical Insurance,63,Male,Coptic,Walking,Arthritis,84,Egyptian,Gardening,Education,11800,Heliopolis,Lower,Spouse,1,images/images\Medical Insurance\6.jpg
+Luxury Car,46,Female,Muslim,No_Sport,Healthy,83,Egyptian,Traveling,Engineering,84000,Nasr City,Upper,Children,0,images/images\Luxury Car\3.jpeg
+Organic Food,54,Male,Muslim,No_Sport,Hypertension,89,Egyptian,Gardening,Business,21000,Cairo,Middle,Mother,1,images/images\Organic Food\11.jpeg
+Kids Toys,38,Female,Christian,No_Sport,Healthy,72,Egyptian,Knitting,Medical,17000,Dokki,Lower,Spouse,1,images/images\Kids Toys\10.jpg
+Gym Membership,28,Male,Muslim,Running,Healthy,75,Egyptian,Running,CS,11500,Sheikh Zayed,Middle,Spouse,1,images/images\Gym Membership\14.jpg
+Tech Gadget,33,Female,Muslim,No_Sport,Healthy,77,Egyptian,Coding,Education,17500,6th of October,Middle,Grandma,0,images/images\Tech Gadget\12.jpeg
+Fashion Magazine,30,Male,Christian,No_Sport,Healthy,79,Egyptian,Dancing,Engineering,15500,Giza,Lower,Children,0,images/images\Fashion Magazine\2.jpg
+Healthy Snacks,45,Female,Muslim,Yoga,Healthy,81,Egyptian,Yoga,Arts,22500,Maadi,Upper,Spouse,1,images/images\Healthy Snacks\9.jpg
+Car Insurance,50,Male,Muslim,Football,Healthy,90,Egyptian,Football,CS,33000,Heliopolis,Middle,Spouse,0,images/images\Car Insurance\1.jpeg
+Engineering Tools,39,Female,Muslim,No_Sport,Healthy,78,Egyptian,Robotics,Medical,30500,Nasr City,Middle,Mother,1,images/images\Engineering Tools\9.jpeg
+Medical Insurance,67,Male,Coptic,Walking,Diabetes,86,Egyptian,Birdwatching,Business,12200,Cairo,Lower,Grandpa,1,images/images\Medical Insurance\12.jpeg
+Luxury Car,56,Female,Muslim,No_Sport,Arthritis,88,Egyptian,Traveling,Education,91000,Dokki,Upper,Spouse,0,images/images\Luxury Car\13.jpeg
+Organic Food,44,Female,Christian,No_Sport,Healthy,76,Egyptian,Cooking,Engineering,20000,Sheikh Zayed,Middle,Children,1,images/images\Organic Food\9.jpeg
+Kids Toys,39,Male,Muslim,No_Sport,Healthy,79,Egyptian,Painting,CS,17500,6th of October,Lower,Spouse,1,images/images\Kids Toys\6.jpg
+Gym Membership,25,Female,Muslim,Cycling,Healthy,69,Egyptian,Cycling,Arts,9500,Giza,Lower,Grandma,1,images/images\Gym Membership\4.jpg
+Tech Gadget,41,Male,Muslim,No_Sport,Healthy,82,Egyptian,Coding,Business,21500,Maadi,Middle,Father,1,images/images\Tech Gadget\2.jpeg
+Fashion Magazine,26,Male,Christian,No_Sport,Healthy,75,Egyptian,Singing,Education,13500,Heliopolis,Lower,Spouse,0,images/images\Fashion Magazine\3.jpg
+Healthy Snacks,47,Female,Muslim,No_Sport,Diabetes,83,Egyptian,Baking,Medical,24500,Nasr City,Upper,Children,1,images/images\Healthy Snacks\7.jpg
+Car Insurance,51,Male,Muslim,Tennis,Healthy,91,Egyptian,Tennis,Engineering,34000,Cairo,Middle,Spouse,0,images/images\Car Insurance\11.jpeg
+Engineering Tools,32,Female,Muslim,No_Sport,Healthy,74,Egyptian,Robotics,CS,29000,Dokki,Middle,Grandpa,1,images/images\Engineering Tools\14.jpg
+Medical Insurance,69,Male,Coptic,Walking,Hypertension,87,Egyptian,Gardening,Arts,12800,Sheikh Zayed,Lower,Spouse,1,images/images\Medical Insurance\10.jpg
+Luxury Car,57,Female,Muslim,No_Sport,Healthy,89,Egyptian,Traveling,Business,93000,6th of October,Upper,Children,0,images/images\Luxury Car\15.jpg
+Organic Food,53,Male,Muslim,No_Sport,Arthritis,90,Egyptian,Gardening,Medical,22000,Giza,Middle,Mother,1,images/images\Organic Food\2.jpg
+Kids Toys,40,Female,Christian,No_Sport,Healthy,73,Egyptian,Knitting,Engineering,18000,Maadi,Lower,Spouse,1,images/images\Kids Toys\2.jpg
+Gym Membership,27,Male,Muslim,Swimming,Healthy,76,Egyptian,Swimming,Education,10500,Heliopolis,Middle,Spouse,1,images/images\Gym Membership\6.jpg
