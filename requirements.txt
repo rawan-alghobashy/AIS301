@@ -6,3 +6,4 @@ joblib
 pillow
 torch
 torchvision
+tensorflow-cpu
